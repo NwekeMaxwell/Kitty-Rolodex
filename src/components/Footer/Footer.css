@@ -1,0 +1,11 @@
+.footer {
+  background-color: rgba(7, 27, 82, 1);
+  height: 5vh;
+  text-align: center;
+  color: white;
+}
+@media only screen and (max-width: 480px) {
+  .footer {
+    font-size: 80%;
+  }
+}
