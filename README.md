@@ -1,7 +1,9 @@
-# link
+# https://kittyrolodex.netlify.app/
+
 # Kitty Rollodex
 
 ## Features
+
 > Search Functionality
 
 > APIs
@@ -16,6 +18,6 @@
 
 ## Characteristics
 
-+ mobile and desktop responsive
-+ search functionality for easy access to kittens
-+ hover effect for user friendliness
+- mobile and desktop responsive
+- search functionality for easy access to kittens
+- hover effect for user friendliness
